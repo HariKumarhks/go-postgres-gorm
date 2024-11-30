@@ -1,4 +1,4 @@
-module github.com/akhil/go-fiber-postgres
+module postgresorm
 
 go 1.16
 
